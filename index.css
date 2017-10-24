@@ -1,0 +1,89 @@
+h1 {
+    position: absolute;
+    top: -5px;
+    left: 1820px;
+    font-family:'Roboto Mono', monospace;
+    z-index:3;
+    color:rgb(18, 124, 18);
+}
+
+#sqaure {
+    position: absolute;
+    top: -5px;
+    left:-5px;
+    height: 100px;
+    width: 2000px;
+    background-color: rgb(36, 33, 33);
+    z-index:2;
+}
+
+#sqaure2 {
+    position: absolute;
+    top: 5px;
+    left:-5px;
+    height: 100px;
+    width: 2000px;
+    background-color: rgb(141, 138, 138);
+    z-index:1;
+}
+
+#sqaure3 {
+    position: absolute;
+    top: 105px;
+    left:-5px;
+    height: 1910px;
+    width: 2000px;
+    background-color: rgb(40, 40, 44);
+    z-index:0;
+}
+
+#name, #namefol {
+    position: absolute;
+    top: -5px;
+    left: 10px;
+    font-family:'Roboto Mono', monospace;
+    z-index:3;
+    color:rgb(18, 124, 18);
+}
+
+#namefol {
+    position:fixed;
+}
+
+#linkhome, #linkcontact {
+    position: absolute;
+    position: absolute;
+    top: 30px;
+    left: 600px;
+    font-family:'Roboto Mono', monospace;
+    z-index:3;
+    color:rgb(18, 124, 18);
+}
+
+#linkcontact {
+left: 1200px;
+}
+
+#currentmemo, #notifycontact, #easteregg, #disclaimer{
+    position: relative;
+    font-family:'Roboto Mono', monospace;
+    top: 100px;
+    left: 50px;
+    color: rgb(141, 167, 23);
+    text-indent: 1em;
+}
+
+#notifycontact {
+    top:200px;
+}
+
+#easteregg {
+    top: 1700px;
+}
+
+#disclaimer {
+    top: 150px;
+}
+
+
+

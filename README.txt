@@ -1,0 +1,1 @@
+if you want to preview the website. open the index.html file
